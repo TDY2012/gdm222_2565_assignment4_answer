@@ -1,0 +1,15 @@
+D:\GDM222\year65\gdm222_2565_assignment4_answer\no_4\obj\Debug\net6.0\no_4.csproj.AssemblyReference.cache
+D:\GDM222\year65\gdm222_2565_assignment4_answer\no_4\obj\Debug\net6.0\no_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\GDM222\year65\gdm222_2565_assignment4_answer\no_4\obj\Debug\net6.0\no_4.AssemblyInfoInputs.cache
+D:\GDM222\year65\gdm222_2565_assignment4_answer\no_4\obj\Debug\net6.0\no_4.AssemblyInfo.cs
+D:\GDM222\year65\gdm222_2565_assignment4_answer\no_4\obj\Debug\net6.0\no_4.csproj.CoreCompileInputs.cache
+D:\GDM222\year65\gdm222_2565_assignment4_answer\no_4\bin\Debug\net6.0\no_4.exe
+D:\GDM222\year65\gdm222_2565_assignment4_answer\no_4\bin\Debug\net6.0\no_4.deps.json
+D:\GDM222\year65\gdm222_2565_assignment4_answer\no_4\bin\Debug\net6.0\no_4.runtimeconfig.json
+D:\GDM222\year65\gdm222_2565_assignment4_answer\no_4\bin\Debug\net6.0\no_4.dll
+D:\GDM222\year65\gdm222_2565_assignment4_answer\no_4\bin\Debug\net6.0\ref\no_4.dll
+D:\GDM222\year65\gdm222_2565_assignment4_answer\no_4\bin\Debug\net6.0\no_4.pdb
+D:\GDM222\year65\gdm222_2565_assignment4_answer\no_4\obj\Debug\net6.0\no_4.dll
+D:\GDM222\year65\gdm222_2565_assignment4_answer\no_4\obj\Debug\net6.0\ref\no_4.dll
+D:\GDM222\year65\gdm222_2565_assignment4_answer\no_4\obj\Debug\net6.0\no_4.pdb
+D:\GDM222\year65\gdm222_2565_assignment4_answer\no_4\obj\Debug\net6.0\no_4.genruntimeconfig.cache
